@@ -12,32 +12,34 @@ Tu viens d'arriver sur EMPIRE Survival ? Voici l'essentiel pour bien démarrer.
 ## 2. Mets ton skin
 
 ```
-/skin <pseudo>
+/skin <pseudo_mojang>
 ```
 👉 Voir [Ton skin en jeu](skin.md).
 
 ## 3. Pose ta base
 
-Quand tu as trouvé un bon coin :
+Quand tu as trouvé un bon endroit :
 ```
 /sethome
 ```
-Pour y revenir à tout moment : `/home`.
+Pour y revenir à tout moment : `/home`
 
-## 4. Affiche le HUD
+## 4. Explore les commandes RPG
 
-Le serveur a un tableau de bord (grade, argent, classe, temps de jeu) :
+Ouvre ton profil RPG, tes compétences et ta classe :
 ```
-/hud
-```
-Tape la commande pour l'activer/désactiver.
-
-## 5. Découvre ta classe RPG
-
-```
-/class
+/profile
+/skills
+/skilltrees
 ```
 👉 Voir [Classes & compétences](../rpg/classes.md).
+
+## 5. Ouvre ton inventaire RPG
+
+Ton inventaire RPG contient des emplacements spéciaux (anneau, ceinture, relique) :
+```
+/equipement
+```
 
 ## 6. Le spawn
 
@@ -47,7 +49,7 @@ Pour rentrer au spawn à tout moment :
 ```
 
 {% hint style="warning" %}
-⚔️ En **combat PvP**, tu es **tag combat pendant 30 secondes** : impossible de te téléporter (`/home`, `/spawn`, `/tpa`…) ni de te déconnecter sans mourir. Voir [Combat & PvP](../gameplay/combat.md).
+⚔️ En **combat PvP**, tu es **tag combat pendant 30 secondes** : impossible de te téléporter (`/home`, `/spawn`, `/tpa`…) ni de te déconnecter sans mourir.
 {% endhint %}
 
 ## Aller plus loin

@@ -2,6 +2,8 @@
 
 La liste complète des commandes joueur d'EMPIRE Survival, par catégorie.
 
+---
+
 ## 🔐 Compte & connexion
 
 | Commande | Description |
@@ -10,26 +12,38 @@ La liste complète des commandes joueur d'EMPIRE Survival, par catégorie.
 | `/login <mdp>` | Te connecter |
 | `/changepassword <ancien> <nouveau>` | Changer ton mot de passe |
 
+---
+
 ## 🎨 Skin
 
 | Commande | Description |
 |----------|-------------|
-| `/skin <pseudo>` | Appliquer le skin d'un compte Minecraft |
+| `/skin <pseudo_mojang>` | Appliquer le skin d'un compte Minecraft |
 | `/skin clear` | Revenir au skin par défaut |
-| `/skin update` | Mettre à jour ton skin |
+| `/skin update` | Forcer la mise à jour de ton skin |
+
+---
 
 ## 🏠 Bases & déplacement
 
 | Commande | Description |
 |----------|-------------|
-| `/sethome` | Définir ta base |
-| `/sethome <nom>` | Définir une base nommée (VIP+) |
+| `/sethome` | Définir ta base (1 seule par défaut) |
+| `/sethome <nom>` | Définir une base nommée (VIP et +) |
 | `/home` | Te téléporter à ta base |
 | `/home <nom>` | Te téléporter à une base nommée |
-| `/delhome` | Supprimer une base |
+| `/delhome` | Supprimer ta base |
 | `/spawn` | Retourner au spawn |
 | `/tpa <joueur>` | Demander à te téléporter chez un joueur |
+| `/tpaccept` | Accepter une demande de TP |
 | `/back` | Revenir à ta position précédente |
+| `/warp` | Liste des zones publiques |
+
+{% hint style="warning" %}
+En **combat PvP**, les téléportations (`/home`, `/spawn`, `/tpa`, `/back`) sont **bloquées pendant 30 secondes** après le dernier échange de coups.
+{% endhint %}
+
+---
 
 ## 💰 Économie
 
@@ -38,9 +52,13 @@ La liste complète des commandes joueur d'EMPIRE Survival, par catégorie.
 | `/bal` | Voir ton solde |
 | `/pay <joueur> <montant>` | Payer un joueur |
 | `/baltop` | Classement des plus riches |
-| `/ah` | Hôtel de vente entre joueurs |
+| `/ah` | Hôtel des ventes entre joueurs |
+
+---
 
 ## ⚔️ Factions
+
+Toutes les commandes de faction commencent par `/f` :
 
 | Commande | Description |
 |----------|-------------|
@@ -48,52 +66,69 @@ La liste complète des commandes joueur d'EMPIRE Survival, par catégorie.
 | `/f invite <joueur>` | Inviter un joueur |
 | `/f join <faction>` | Rejoindre une faction |
 | `/f leave` | Quitter sa faction |
-| `/f claim` | Revendiquer un chunk |
+| `/f kick <joueur>` | Exclure un membre |
+| `/f info` | Infos sur ta faction |
+| `/f list` | Liste des factions |
+| `/f members` | Voir les membres |
+| `/f claim` | Revendiquer le chunk actuel |
 | `/f unclaim` | Libérer un chunk |
 | `/f sethome` | Définir la base de faction |
 | `/f home` | Aller à la base de faction |
 | `/f ally <faction>` | Proposer une alliance |
 | `/f enemy <faction>` | Déclarer un ennemi |
-| `/f info` | Infos sur ta faction |
-| `/f list` | Liste des factions |
-| `/f map` | Carte des claims |
-| `/f help` | Aide complète |
+| `/f map` | Carte des territoires |
+| `/f chat` | Basculer en chat de faction |
+| `/f wilderness` | Se téléporter dans la nature |
+
+---
 
 ## 🎯 Primes
 
 | Commande | Description |
 |----------|-------------|
-| `/bounty` | Menu des primes |
-| `/bounty add <joueur> <montant>` | Mettre une prime |
-| `/bounty search` | Voir les primes actives |
-| `/bounty track <joueur>` | Pister un joueur |
+| `/bounty` | Ouvrir le menu des primes |
+| `/bounty add <joueur> <montant>` | Mettre une prime sur un joueur |
+| `/bounty search <joueur>` | Voir les primes sur un joueur |
+| `/bounty track <joueur>` | Pister un joueur mis à prix |
 
-## 🎭 RPG
+---
+
+## ⚔️ RPG
 
 | Commande | Description |
 |----------|-------------|
-| `/class` | Choisir / voir ta classe |
-| `/equipement` (alias `/eq`) | Ouvrir l'inventaire RPG |
+| `/skills` | Ouvrir l'arbre de compétences |
+| `/skilltrees` | Arbres de talents |
+| `/profile` | Voir ton profil RPG (stats, niveau, classe) |
+| `/attributes` | Voir et gérer tes attributs |
+| `/quests` | Ouvrir le menu des quêtes |
+| `/party invite <joueur>` | Inviter quelqu'un dans ton groupe |
+| `/party leave` | Quitter ton groupe |
+| `/friends` | Gérer ta liste d'amis |
+| `/guild` | Guilde |
+| `/equipement` | Ouvrir l'inventaire RPG *(alias : `/eq`, `/equip`, `/inv`)* |
 | `/relique` | Ouvrir la Forge Mystique (reliques & fragments) |
 
-> 💡 **Lancer un sort** : appuie sur **F** pour ouvrir la barre de sorts, puis **1-4**.
+---
 
-## 🎁 Progression
+## 🎁 Progression & récompenses
 
 | Commande | Description |
 |----------|-------------|
 | `/bp` | Ouvrir le Battle Pass |
-| `/intendant` | Paliers de contribution |
+| `/rewards` | Ouvrir les récompenses journalières |
 
-## 🖥️ Divers
+---
+
+## 💬 Social
 
 | Commande | Description |
 |----------|-------------|
-| `/hud` | Afficher / masquer le tableau de bord |
-| `/msg <joueur> <message>` | Message privé |
+| `/msg <joueur> <message>` | Envoyer un message privé |
 | `/r <message>` | Répondre au dernier message privé |
-| `/rules` | Voir le règlement |
+
+---
 
 {% hint style="info" %}
-Certaines commandes dépendent de ton **grade**. Les commandes staff/admin ne sont pas listées ici.
+Les commandes staff/admin ne sont pas listées ici. Certaines commandes dépendent de ton **grade** (voir [Grades & permissions](../gameplay/grades.md)).
 {% endhint %}
