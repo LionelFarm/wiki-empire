@@ -6,21 +6,16 @@ coverY: 0
 
 # 👑 Bienvenue sur EMPIRE Survival
 
-> **EMPIRE Survival** est un serveur **Survie RPG / PvP** en français.
-> Forge des reliques, crée ta faction, monte en grade et bâtis ton empire.
+> **EMPIRE Survival** est un serveur **Survie RPG / PvP** en français. Forge des reliques, crée ta faction, monte en grade et bâtis ton empire.
 
 ## 🌍 Rejoindre le serveur
 
-| Info | Valeur |
-|------|--------|
-| **Adresse IP** | `185.182.185.155` (ton IP ou nom de domaine) |
-| **Version** | Minecraft **Java 1.21.11** |
-| **Type** | Survie • RPG • PvP • Factions |
+| Info              | Valeur                                           |
+| ----------------- | ------------------------------------------------ |
+| **Adresse IP**    | `185.182.185.155` (ton IP ou nom de domaine)     |
+| **Version**       | Minecraft **Java 1.21.11**                       |
+| **Type**          | Survie • RPG • PvP • Factions                    |
 | **Compatibilité** | Comptes **premium ET crackés** (TLauncher, etc.) |
-
-{% hint style="info" %}
-Le serveur est en **offline mode** : tu peux jouer avec un pseudo inventé. À ta première connexion, tu devras enregistrer un mot de passe (voir [Connexion & sécurité](premiers-pas/connexion.md)).
-{% endhint %}
 
 ## 🧭 Par où commencer ?
 
@@ -30,6 +25,6 @@ Le serveur est en **offline mode** : tu peux jouer avec un pseudo inventé. À t
 * 🎁 [**Progression**](progression/battle-pass.md) — Battle Pass, coffres, contribution
 * 📜 [**Toutes les commandes**](reference/commandes.md) — la liste complète
 
----
+***
 
-*Wiki maintenu par l'équipe EMPIRE Survival. Bon jeu, et que ton empire prospère !* 👑
+_Wiki maintenu par l'équipe EMPIRE Survival. Bon jeu, et que ton empire prospère !_ 👑
