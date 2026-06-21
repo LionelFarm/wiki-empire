@@ -52,6 +52,12 @@ Quand tu meurs, ta tombe reste accessible pendant :
 | VIP+ | +25 % |
 | VIP MAX | +50 % |
 
+### 🎭 Changement de classe (`/class`)
+
+Les grades **VIP, VIP+ et VIP MAX** peuvent changer de classe librement avec `/class`.
+
+Les joueurs sans grade choisissent leur classe **une seule fois** à leur première connexion.
+
 ### 🚀 Autres avantages VIP MAX
 
 * `/fly` — voler librement (désactivé automatiquement en combat PvP)

@@ -97,6 +97,7 @@ Toutes les commandes de faction commencent par `/f` :
 
 | Commande | Description |
 |----------|-------------|
+| `/class` | Changer de classe *(VIP, VIP+ et VIP MAX uniquement)* |
 | `/skills` | Ouvrir l'arbre de compétences |
 | `/skilltrees` | Arbres de talents |
 | `/profile` | Voir ton profil RPG (stats, niveau, classe) |
