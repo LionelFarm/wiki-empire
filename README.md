@@ -12,10 +12,12 @@ coverY: 0
 
 | Info              | Valeur                                           |
 | ----------------- | ------------------------------------------------ |
-| **Adresse IP**    | `185.182.185.155` (ton IP ou nom de domaine)     |
+| **Adresse IP**    | `empire-survival.fr`                             |
 | **Version**       | Minecraft **Java 1.21.11**                       |
 | **Type**          | Survie • RPG • PvP • Factions                    |
 | **Compatibilité** | Comptes **premium ET crackés** (TLauncher, etc.) |
+| **Site web**      | [empire-survival.fr](https://empire-survival.fr) |
+| **Voter**         | [Voter et gagner 30 coins](https://serveur-prive.net/minecraft/empire-survival/vote) |
 
 ## 🧭 Par où commencer ?
 
