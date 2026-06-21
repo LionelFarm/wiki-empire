@@ -100,7 +100,7 @@ Toutes les commandes de faction commencent par `/f` :
 | `/class` | Changer de classe *(VIP, VIP+ et VIP MAX uniquement)* |
 | `/skills` | Ouvrir l'arbre de compétences |
 | `/skilltrees` | Arbres de talents |
-| `/profile` | Voir ton profil RPG (stats, niveau, classe) |
+| `/profile` | Voir ton profil RPG (stats, niveau, classe et **niveaux de metiers**) |
 | `/attributes` | Voir et gérer tes attributs |
 | `/quests` | Ouvrir le menu des quêtes |
 | `/party invite <joueur>` | Inviter quelqu'un dans ton groupe |
