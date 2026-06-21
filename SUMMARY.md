@@ -12,6 +12,7 @@
 
 * [🏅 Grades & permissions](gameplay/grades.md)
 * [💰 Économie & argent](gameplay/economie.md)
+* [🎁 Parrainage](gameplay/parrainage.md)
 * [⚔️ Factions](gameplay/factions.md)
 * [🗡️ Combat & PvP](gameplay/combat.md)
 * [🎯 Primes (têtes mises à prix)](gameplay/primes.md)
