@@ -21,6 +21,7 @@
 
 * [🎭 Classes & compétences](rpg/classes.md)
 * [🎒 Équipement RPG](rpg/equipement.md)
+* [⛏️ Métiers](rpg/metiers.md)
 * [🔮 Reliques évolutives](rpg/reliques.md)
 * [🟣 Panoplie Empirium](rpg/empirium.md)
 
