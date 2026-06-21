@@ -6,11 +6,9 @@ EMPIRE Survival fonctionne en **offline mode** (comptes crackés autorisés). Po
 
 ## Gérer ton mot de passe
 
-| Commande                             | Description                 |
-| ------------------------------------ | --------------------------- |
-| `/register <mdp> <mdp>`              | Créer ton compte (1re fois) |
-| `/login <mdp>`                       | Te connecter                |
-| `/changepassword <ancien> <nouveau>` | Changer ton mot de passe    |
+| Commande                             | Description              |
+| ------------------------------------ | ------------------------ |
+| `/changepassword <ancien> <nouveau>` | Changer ton mot de passe |
 
 {% hint style="info" %}
 Les sessions durent **30 minutes** : si tu te reconnectes rapidement (même IP), tu n'auras pas à retaper `/login`.
