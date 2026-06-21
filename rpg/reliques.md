@@ -18,11 +18,12 @@ Cette commande ouvre la **Forge Mystique**, où tu fabriques ta relique vierge e
 
 | Ingrédient | Quantité |
 |------------|----------|
-| Lingot de Fer | ×30 |
-| Lingot d'Or | ×30 |
-| Lingot de Cuivre | ×30 |
+| Diamant | ×15 |
+| Lingot d'or | ×64 |
+| Lingot de fer | ×32 |
+| Émeraude | ×16 |
 
-⏱️ Temps de forge : **30 secondes**.
+⏱️ Temps de forge : **60 secondes**.
 
 {% hint style="info" %}
 La Relique Vierge n'a **aucun bonus** au départ. Toute sa puissance vient des **Fragments** que tu vas y insérer. Elle possède **10 emplacements**.
@@ -88,7 +89,7 @@ Une relique posée dans ton inventaire normal ne fait **rien**. Elle doit être 
 ```
 /relique  →  Forge Mystique
 
-Relique Vierge      =  30 Fer + 30 Or + 30 Cuivre
+Relique Vierge  =  15 Diamants + 64 Or + 32 Fer + 16 Émeraudes  (60s)
 
 Fragment de Vie     =  15 têtes de joueur  (PvP, 100%)
 Fragment de Force   =  20 têtes de Piglin  (PvM, 3%)
