@@ -16,6 +16,7 @@
 * [⚔️ Factions](gameplay/factions.md)
 * [🗡️ Combat & PvP](gameplay/combat.md)
 * [⚔️ PvM — Les Corrompus](gameplay/pvm.md)
+* [🏰 Royaumes & Claims](gameplay/royaumes.md)
 * [🎯 Primes (têtes mises à prix)](gameplay/primes.md)
 * [⚰️ Mort & tombes](gameplay/tombes.md)
 
