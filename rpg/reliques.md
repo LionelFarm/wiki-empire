@@ -100,3 +100,4 @@ Fragment de Mana    =  20 têtes de Creeper  (PvM, 3%)
 Clic droit fragment sur relique  →  s'insère (10 max)
 /equipement  →  slot Relique  →  bonus actifs
 ```
+
