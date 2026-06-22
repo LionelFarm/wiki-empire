@@ -15,6 +15,7 @@
 * [🎁 Parrainage](gameplay/parrainage.md)
 * [⚔️ Factions](gameplay/factions.md)
 * [🗡️ Combat & PvP](gameplay/combat.md)
+* [⚔️ PvM — Les Corrompus](gameplay/pvm.md)
 * [🎯 Primes (têtes mises à prix)](gameplay/primes.md)
 * [⚰️ Mort & tombes](gameplay/tombes.md)
 
