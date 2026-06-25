@@ -15,9 +15,9 @@ Ton mot de passe doit faire **au minimum 8 caractères**. Tu as **60 secondes** 
 
 ## Reconnexion
 
-Si tu te reconnectes dans les **30 minutes** suivant ta déconnexion (depuis la même IP), tu seras automatiquement reconnecté sans retaper ton mot de passe.
+Si tu te reconnectes dans les **2  heures** suivant ta déconnexion (depuis la même IP), tu seras automatiquement reconnecté sans retaper ton mot de passe.
 
-Au-delà de 30 minutes, tape simplement :
+Au-delà des **2 heures**, tape simplement :
 
 ```
 /login <motDePasse>
@@ -25,10 +25,11 @@ Au-delà de 30 minutes, tape simplement :
 
 ## Gérer ton mot de passe
 
-| Commande | Description |
-|----------|-------------|
+| Commande                             | Description              |
+| ------------------------------------ | ------------------------ |
 | `/changepassword <ancien> <nouveau>` | Changer ton mot de passe |
 
 {% hint style="info" %}
-Tu peux écrire dans le **chat** même avant de t'être connecté, pour demander de l'aide si tu as un problème.
+Tu peux écrire dans le **chat** même avant de t'être connecté, pour demander de l'aide si tu as un problème.\
+Si tu ne peux carrément pas te connecter, rejoins notre **discord** et fait un ticket, il sera très rapidement pris en charge.
 {% endhint %}
