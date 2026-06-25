@@ -17,6 +17,19 @@ Ce menu te permet de **voir et choisir ta classe**. Les classes disponibles :
 | 🛡️ **Paladin** | Soutien, soin, défense |
 | 🗡️ **Roublard** | Vitesse, furtivité, dégâts critiques |
 
+## Changer de classe
+
+Il est possible de **changer de classe librement** pendant la bêta via `/class`.
+
+{% hint style="warning" %}
+Un **cooldown de 20 minutes** s'applique entre chaque changement. Tu ne peux pas changer de classe à nouveau avant ce délai.
+{% endhint %}
+
+Lors d'un changement de classe :
+- Tes **points de sorts** et **points d'attributs** sont conservés
+- Tes **nœuds d'arbre de compétences** sont réinitialisés et **remboursés automatiquement**
+- Tu peux réutiliser tes points dans le nouvel arbre de ta classe
+
 ## Monter en niveau
 
 Tu gagnes de l'**XP RPG** en jouant (combat, métiers…). Chaque niveau te donne des **points** à dépenser dans ta classe et ses compétences.
