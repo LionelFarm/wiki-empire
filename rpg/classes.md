@@ -7,14 +7,15 @@ EMPIRE Survival intègre un vrai système **RPG** via **MMOCore** : choisis une 
 ```
 /class
 ```
+
 Ce menu te permet de **voir et choisir ta classe**. Les classes disponibles :
 
-| Classe | Style |
-|--------|-------|
-| ⚔️ **Guerrier** | Mêlée, tank, résistance |
-| 🔮 **Mage** | Sorts, dégâts magiques, mana |
-| 🏹 **Tireur** | Distance, arcs, précision |
-| 🛡️ **Paladin** | Soutien, soin, défense |
+| Classe           | Style                                |
+| ---------------- | ------------------------------------ |
+| ⚔️ **Guerrier**  | Mêlée, tank, résistance              |
+| 🔮 **Mage**      | Sorts, dégâts magiques, mana         |
+| 🏹 **Tireur**    | Distance, arcs, précision            |
+| 🛡️ **Paladin**  | Soutien, soin, défense               |
 | 🗡️ **Roublard** | Vitesse, furtivité, dégâts critiques |
 
 ## Changer de classe
@@ -22,13 +23,15 @@ Ce menu te permet de **voir et choisir ta classe**. Les classes disponibles :
 Il est possible de **changer de classe librement** pendant la bêta via `/class`.
 
 {% hint style="warning" %}
+!! IMPORTANT !! TU DOIS OBLIGATOIREMENT RE-INITIALISER TES POINTS D'ARBRES DE COMPETANCES AVANT DE CHANGER DE CLASSE, DANS LE CAS CONTRAIRE ILS SERONT PERDU. \
 Un **cooldown de 20 minutes** s'applique entre chaque changement. Tu ne peux pas changer de classe à nouveau avant ce délai.
 {% endhint %}
 
 Lors d'un changement de classe :
-- Tes **points de sorts** et **points d'attributs** sont conservés
-- Tes **nœuds d'arbre de compétences** sont réinitialisés et **remboursés automatiquement**
-- Tu peux réutiliser tes points dans le nouvel arbre de ta classe
+
+* Tes **points de sorts** et **points d'attributs** sont conservés
+* Tes **nœuds d'arbre de compétences** sont réinitialisés et **remboursés automatiquement**
+* Tu peux réutiliser tes points dans le nouvel arbre de ta classe
 
 ## Monter en niveau
 
